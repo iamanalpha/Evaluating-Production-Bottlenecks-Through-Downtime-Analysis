@@ -34,7 +34,7 @@ Consumer Goods Sector: Companies in the consumer goods industry often face chall
 
 Technology Adoption: Many mid-sized manufacturers are adopting modern tools like Business Intelligence (BI) and data analytics to analyze production data and optimize scheduling. These technologies enable companies to make data-driven decisions, improving productivity while minimizing operational bottlenecks.
 
-# Top Five Reasons for Initiating this Project:
+# Reasons for Initiating this Project:
 
 1. Improved Decision-Making: Data-driven insights from production and scheduling analytics will empower management to make better decisions, avoid costly mistakes, and prioritize improvements.
 
